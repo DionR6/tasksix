@@ -1,0 +1,7 @@
+1. Go to "https://azure.microsoft.com/en-in".
+2. Click Try Azure for free.
+3. Select Start free.
+4. Sign in to your microsoft account.
+5. Fill the personal  details.
+6. Verify using debit/credit card.
+7. Get started with your Azure account.
